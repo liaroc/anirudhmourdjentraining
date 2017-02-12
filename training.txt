@@ -1,1 +1,335 @@
-hello
+CONTEXT
+
+Autism is a neurodevelopmental disorder that affects 1% of the population1
+
+. Academically, research on
+
+autism (genetics, molecular, neuroscience, brain imaging and epidemiologic studies) has seen a large
+
+increase over the last fifteen years2
+
+. However, such research is very compartmentalized and does not
+
+provide meaningful feedback to individuals. Cognitive science, in particular, has focused on detailed
+
+examinations of cognitive deficits in autism, and therefore lacks integrative perspectives as well as a global
+
+description of the very heterogeneous autism spectrum.
+
+Hypothesis #1: Heterogeneity of the autism spectrum can be reduced by establishing subcategories
+
+based on cognitive phenotypes that describe patterns of deficits and abilities.
+
+Most research studies on autistic cognition involve few participants (n<30), with a strong selection bias
+
+(participants must be high functioning and able to spend two hours or more completing lab tasks). Statistics
+
+based on such data is of low power and leads to incongruence between publications.
+
+Hypothesis #2: Numerical tools provided to families could help in collecting large amounts of data-
+both qualitative and quantitative on children with autism, therefore providing information on
+
+fluctuations of cognitive and perceptive functions that can be analyzed with robust statistical
+
+methods, additionally, this could provide individual benefit to those living with the autism.
+
+Outside academia, numerous local, open access, innovative endeavors have been developed. However,
+
+even though they could be very useful for scientists and autistic families alike, they often remain unknown
+
+or gain only very restricted reach. On the other hand, commercial products with weak scientific basis are
+
+often released and gain greater attention.
+
+Hypothesis #3: It is possible to improve such a situation by creating an inventory of all initiatives
+
+and evaluate them scientifically in order to diffuse evidence-based information.
+
+There is to our knowledge no systematic method to assess and compare the digital tools for children with
+
+autism Interested by the existing digital tool directories dedicated to autism3,4,5
+
+, I aim to meet the needs of
+
+the users by implementing an additional degree of access to these tools, particularly via a comprehensive
+
+inventory by identifying, classifying and analyzing digital innovations.
+
+OBJECTIVES
+
+I aim to facilitate the transition from conventional, closed scientific inquiry to an open model where anyone
+
+may participate in every stage of a research project including idea conception, project development,
+
+conducting the research and analysis of the results, to create an autism ecosystem bringing together the
+
+various stakeholders (researchers, autistic people, their parents, caregivers, therapists, doctors, technology
+
+developers like programmers and all others interested).
+
+My thesis will be composed of three independent but highly complementary projects, each of them relying
+
+on different methods (citizen science/action research, applied research, fundamental research). The first
+
+project, OCEAN, a citizen science and action research project, is my own project that I developed during
+
+my Masters. It will be backed by fundamental and applied science with my involvement in the MACA project
+
+(lead by F. Cazalis) and the INTERACT project (lead by R. Toro). The research instrument that I will create
+
+is a platform dedicated to research on autism, with three components: web applications, databases and
+
+data analyses. All three projects will share a common structure, numerical tools and, most importantly, the
+
+same open access database, so that results from all three approaches can be analyzed conjointly.
+
+Aim 1: Citizen Science, action research (OCEAN, A. Krishnakumar): Establish a comprehensive
+
+inventory of digital tools and develop a method for their assessment/improvement/diffusion:
+
+As part of my Masters (CRI AIV-M2). I established a pilot website6 and an initial growing database7 of 160
+
+digital innovations for autism with the intent to create a peer based collaboration system among different
+
+stakeholders. The website will be upgraded to explain the project and autism from the viewpoint of different
+
+stakeholders using comic strips, animations and diagrams. A profile system will be developed with the intent
+
+to match one stakeholders’ needs to another’s skills and interests.
+
+Aim 2: Fundamental research (MACA, F. Cazalis): Map autistic cognitive abilities using games,
+
+applications and tools as experimental tasks: Cognition in autism is characterized by a specific
+
+combination of impairments and abilities. Abilities in autism, however, are less studied8
+
+. Heterogeneity in
+
+autism limits research based on conventional paradigms. The project aims at a systematic cartography of
+
+OCEAN
+
+both cognitive-perceptual abilities and impairments in autism. Gamification of psychological tasks
+
+(experimental tasks as video games) promotes optimal performance, enabling measurements of both
+
+hyper-competences and deficits. Individuals with severe forms of autism (45% of this population, hitherto
+
+under-studied) could be included who, despite their difficulties, are able to use smartphones or tablets.
+
+Aim 3: Applied research (INTERACT, R. Toro): Develop games, applications and tools by
+
+programming and design students in collaboration with researchers, therapists, parents, doctors and other
+
+professionals. In the current cycle, four apps are under development (see work plan) along with a
+
+backend/database support system for the creation of subsequent applications.
+
+WORK PLAN
+
+SUPERVISION and COLLABORATIONS
+
+F. Cazalis (CNRS-EHESS) - director, A. Klein (Sage Bionetworks) - co-director.
+
+A. Lindner (CRI, INSERM), R. Toro (Institut Pasteur), F. X. Petit - head teacher of Ecole 42 (School of
+
+Computer Science) whose students participate in the development of OCEAN.
+
+METHODS
+
+I propose a novel approach that uses games, tools and applications developed with the active involvement
+
+of the autism community itself to collect data largely from home and school settings. Classic implements
+
+such as surveys could also be administered remotely. More interestingly, sensors such as accelerometers,
+
+gyroscopes, and microphones can provide data with minimal or no interruption in the participant’s daily life.
+
+The impact of high-resolution activity data collected from smartphones is only beginning to be explored.
+
+Smartphones and other networked devices offer a unique opportunity to engage research participants
+
+without requiring physical interaction. The feasibility of using smartphones as new tools in the management
+
+and understanding of diseases was demonstrated by the mPower Parkinson study by Sage Bionetworks9
+
+.
+
+The intent is to create a platform that concatenates the three parts of the project: (I) Citizen Science (II)
+
+Fundamental Research (III) Applied Research. Each part will be 3-tiered: web applications, databases and
+
+data analyses.
+
+(I) Citizen Science: The OCEAN database identifies, classifies and analyses projects making them
+
+available for citizens and researchers alike. It already has 160 projects, games, tools and apps and
+
+community efforts. For its expansion and its data validation, the following steps will be undertaken (i) Forms
+
+will be sent to the respective teams that satisfy the inclusion criteria. (ii) The teams would verify or update
+
+the data in the prescribed format and provide information including a project synopsis linked to a Wiki. (iii)
+
+After validation by a scientific committee, the project would feature on the database. (iv) A form will be
+
+available to enter new projects, feeding the database. (v) A platform will be provided to add further content,
+
+enable blogging and to share ideas/suggestions. People interested in an area (eg. social interaction) will
+
+be directed to the relevant projects, initiatives and related stakeholders by a tag-based system. A profile
+
+system (Interconnect) will have information on experiences (what works and what does not), expertise
+
+(skills, contributions - time and/or resources) and suggested solutions, ideas and hypotheses of
+
+stakeholders. I will develop an engagement map comparing problems faced and the resources used with
+
+initial focus on parents in France and India.
+
+(II) Fundamental Research: The MACA project relies on online gamified experimental tasks, aiming at
+
+measuring cognitive and perceptual abilities. The tasks’ performance will be analyzed in order to identify,
+
+describe and compare cognitive functions between autistic individuals and matched control groups.
+
+Participants will contribute not only to the formulation of scientific hypotheses but also to the analysis of
+
+results and scientific discussion. Games are meant to engage the user giving us the opportunity to gather
+
+behavioral data such as duration of play, reaction times and game scores. Additionally libraries will be
+
+provided for the analysis of face geometry, eye tracking and audio and motion analysis (via the
+
+accelerometers built into modern smartphones and tablets). The platform will include an online gamification
+
+software Redwire10 for the creation of experimental tasks and its associated database Redmetrics11 that
+
+are currently under open source development. Three pilot gamified tasks ‘My way’12, ‘hungry animals train’13
+
+and ‘blinking eyes’14 have been produced and beta-tested.
+
+(III) Applied Research: The INTERACT project relies on open-source, evidence-based creation learning
+
+apps and tools targeted at children with severe autism, their parents and caretakers. Three apps are
+
+currently under development: Ma-voix will be a vocabulary building app and communication tool using the
+
+principles of picture exchange communication systems. Ma-nuit will obtain data on patterns, cycles and
+
+movements produced in sleep in autists. Mon-quotidien will be used to record daily observations and
+
+activities in a specific format to monitor the child’s progress across different dimensions enabling
+
+OCEAN
+
+introspection by parents/caregivers and suggestions from experts. In addition, Site-web will provide up-to-
+date information on autism research, behavioral and educational interventions and will be for parents to
+
+keep track of behavioral milestones. The INTERACT Database is an open, anonymous repository to harvest
+
+user data gathered through the API inserted in all games, applications and digital tools. It will be able to
+
+store large amounts of data in a generic fashion, allowing access for both web applications to connect to it
+
+in an open manner. The data-analysis API will allow expert users to access all data for its mining and
+
+modelling. In addition, a web interface would be developed providing simple, interactive data visualization
+
+and analysis tools for basic inferential statistics. These tools will allow non-specialists also to study the data.
+
+In particular, the web interface would allow individuals to compare their own data with those of other users.
+
+The data analysis could characterize the cognitive-perceptual fluctuations and establish correlations (or
+
+lack thereof) between diagnostic, qualitative and quantitative data wherever applicable, and detect distinct
+
+patterns in the combinations of abilities and impairments, namely identification of cognitive phenotypes.
+
+Platform to engage a large community
+
+All web applications would be linked to an interdisciplinary platform for people to actively propose ideas,
+
+discuss observations and test hypotheses. All data, updates, progress and results from the various groups
+
+will be posted on the open platform. The tools ‘Idea-weave’
+
+15 and ‘ECDYS-autism’ developed by our
+
+collaborators will be used for the purpose.
+
+ETHICS
+
+Experimental methods and consent forms will be submitted to the local ethics committee for approval. The
+
+databases will be declared to the CNIL16 (Commission nationale de l'informatique et des libertés).
+
+FEASIBILITY AND INNOVATIVE CHARACTER
+
+Feasibility: Although the OCEAN project is ambitious, its feasibility has been shown by my work with
+
+project stakeholders whose academic and scientific soundness is well established. The CRI will provide IT
+
+resources, particularly through its GameLab17, and HR by two CRI software developers involved in the
+
+project, and the contribution of the students of the Ecole 42 and Ecole Conde (design school). My efforts
+
+as community and project manager are currently being demonstrated in my six-month internship at Ecole
+
+42, in collaboration with the Pasteur Institute, Ecole Conde (School of Design) and Creative Valley
+
+(incubator) and this partnership will continue in my PhD. The seed money of 15000 euros won from the
+
+CRI-AIV Innovative Project Challenge will be used to employ developers and designers to outsource work
+
+on the project platform. The feasibility of MACA and INTERACT are currently being demonstrated through
+
+pilot studies.
+
+Innovative character of OCEAN: OCEAN is in its design a translational research project, based on civic
+
+and participatory research. Located at the interface between research, users and citizens, it is an online
+
+platform that aims to identify, evaluate, finalize and disseminate all open access digital tools to the autism
+
+community. In the evaluation of the effectiveness of tools identified, ‘1’ will be based on estimates reported
+
+by users (usage and satisfaction rating), ‘2’ on objective measures (global scales on quality of life,
+
+appropriate scales such as scales on acquisition of communication through pictograms), ‘3’ on quality of
+
+scientific foundations that have underpinned their design, ‘4’ on IT quality (ergonomics, platforms, scalable
+
+tools) and ‘5’ the opinions of scientists involved.
+
+POTENTIAL OUTCOMES / FUTURE AIMS
+
+Expected impacts are threefold in this regard: modeling of autistic intelligence; better integration of autistic
+
+individuals in school, work and society and enhanced self-perception in autistic individuals.
+
+Interdisciplinary teams would be formed with researchers, therapists, parents, teachers and programmers
+
+etc. emphasizing
+
+(1) Personalized games, tools and apps for a child: In this parent-initiated scheme, a feedback loop
+
+would be created monitoring the child’s progress with a specific focus on matching parent’s suggestions to
+
+programmers’ skills. The code used to build the game would be open source. Upon data analysis, approved
+
+suggestions would be implemented.
+
+(2) Behavioral data from home and school settings: In this researcher-initiated scheme, direct data
+
+collection (and feedback) from parents, caregivers and the community would gather real-time information
+
+for the very large cohorts required by research.
+
+(3) Citizen science: This community-initiated scheme involves creating variants or developing existing
+
+efforts and extending autism-related activities facilitating pooling of resources.
+
+(4) Cognitive science: A cognitive phenotype-based taxonomy engaging a broad community of
+
+researchers in the development of predictive models to help people with autism.hello
