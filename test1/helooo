@@ -10,19 +10,6 @@ git commit with git commit -m "what you did"
 git push origin master
 
 You need to be in the document (ls is like double click, cd ..)
-cd ../ is the back button
-
-git pull 
-
-git log gives me the history
-
-ls -a (shows the hidden elemnt, usually not needed)
-
-go to folder (right click new folder to the document) or directly from the command line, 
-rm + "name of the file" = you remove it
-> "name of the file".txt will create a new file
-echo + any text gives you any text in output
-echo comment cava >training.txt
 
 always contextual where you are
 
